@@ -1,0 +1,6 @@
+<div class="wrapper">
+    <div class="firstblock"></div>
+    <div class="secondblock"></div>
+    <div class="thirdblock"></div>
+ <link rel="stylesheet" href="./index.css">
+</div>
